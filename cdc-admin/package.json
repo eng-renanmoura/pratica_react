@@ -4,8 +4,11 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.3.1",
+    "pubsub-js": "^1.5.3",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "react-router": "^2.7.0",
+    "react-router-dom": "^4.1.1",
     "react-scripts": "1.1.4"
   },
   "scripts": {
